@@ -1,5 +1,6 @@
 # PRODIGY_ML_02
-**KMeans clustering for Mall customers**
+## KMeans clustering for Mall customers
+
 This project demonstrates the application of KMeans clustering on the "mall_customers.csv" dataset to segment customers based on their annual income and spending score.
 ## Overview
 
