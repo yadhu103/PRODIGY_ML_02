@@ -26,7 +26,7 @@ The main steps in this project include:
 ## Files
 
 - `mall_customers.csv`: The dataset used for clustering.
-- `KMeans_Clustering.ipynb`: Jupyter Notebook containing the Python code for KMeans clustering.
+- `PRODIGY_ML_02.ipynb`: Jupyter Notebook containing the Python code for KMeans clustering.
 - `README.md`: This file, providing an overview of the project.
 
 ## Usage
@@ -35,7 +35,7 @@ To run the code:
 
 1. Clone this repository to your local machine.
 2. Ensure you have Python installed along with libraries such as pandas, numpy, matplotlib, seaborn, and scikit-learn.
-3. Open and run the `KMeans_Clustering.ipynb` notebook using Jupyter or any compatible environment.
+3. Open and run the `PRODIGY_ML_02.ipynb` notebook using Jupyter or any compatible environment.
 
 ## Results
 
